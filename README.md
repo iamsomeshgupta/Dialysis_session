@@ -1,11 +1,3 @@
-
-
-https://github.com/user-attachments/assets/50b60bdd-c37c-48e7-95d9-acbe87bb8870
-
-
-
-https://github.com/user-attachments/assets/b9e7dc6d-7bba-491d-b466-e85e91eab3c0
-
 # Dialysis Session Intake & Anomaly Dashboard
 
 A small full-stack TypeScript app for tracking dialysis sessions, surfacing basic clinical anomalies, and giving nurses a compact intake dashboard.
@@ -63,3 +55,7 @@ The frontend is a Vite React app that fetches the current schedule, lets a nurse
 - `npm run build` - builds server and client.
 - `npm run test` - runs the server test suite.
 - `npm run seed` - inserts example patients and sessions.
+
+## Demo video
+
+https://github.com/user-attachments/assets/50b60bdd-c37c-48e7-95d9-acbe87bb8870
