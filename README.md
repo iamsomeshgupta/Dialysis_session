@@ -25,9 +25,6 @@ graph TD
 
 The frontend is a Vite React app that fetches the current schedule, lets a nurse add a session, updates notes, and filters to anomalies. The backend owns data access, session shaping, and anomaly calculations. The anomaly rules live in `shared/` so the UI, API, and tests use the same assumptions.
 
-## API Overview
-
-See [docs/api.md](docs/api.md) for the request/response contracts.
 
 ## Assumptions and Trade-offs
 
