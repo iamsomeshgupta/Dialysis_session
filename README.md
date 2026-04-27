@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/50b60bdd-c37c-48e7-95d9-acbe87bb8870
+
+
+
+https://github.com/user-attachments/assets/b9e7dc6d-7bba-491d-b466-e85e91eab3c0
+
 # Dialysis Session Intake & Anomaly Dashboard
 
 A small full-stack TypeScript app for tracking dialysis sessions, surfacing basic clinical anomalies, and giving nurses a compact intake dashboard.
